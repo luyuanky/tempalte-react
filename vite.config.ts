@@ -26,6 +26,7 @@ export default defineConfig(({ command, mode }) => {
         config: path.resolve(__dirname, 'config'),
       },
     },
+    base: '/tempalte-react',
     plugins: [
       raw({
         match: /\.svg$/,

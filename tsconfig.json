@@ -19,7 +19,7 @@
     "composite": true,
     "allowSyntheticDefaultImports": true,
     "allowUnreachableCode": false,
-    "baseUrl": "/tempalte-react",
+    "baseUrl": "./",
     "downlevelIteration": true,
     "esModuleInterop": true,
     "experimentalDecorators": true,

@@ -16,7 +16,7 @@
     "fix:style": "stylelint \"**/*.{css,less}\" --cache --fix",
     "fix:prettier": "prettier --write \"**/*.{ts,tsx,js,jsx,css,less,json,yml,yaml,md,mdx}\" --cache --fix",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -r https://luyuanky.github.io/tempalte-react.git -b gh-pages"
+    "deploy": "gh-pages -d dist -r https://github.com/luyuanky/tempalte-react.git -b gh-pages"
   },
   "homepage": "https://luyuanky.github.io/tempalte-react",
   "keywords": [],
